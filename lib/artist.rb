@@ -16,7 +16,7 @@ class Artist
     Song.new(name, self, genre)
   end
 
-  def songs
-    @songs
-  end
+  # def songs
+  #   @songs
+  # end
 end
